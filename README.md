@@ -59,7 +59,7 @@ Here we'll be loading our data and checking for its general properties to get a 
 - dropping unwanted columns.
 
 # Conclusions
-- Higher budgets and popularity were **positively correlated** to Higher Revenue. This is quite explainable, assuming that a higher budget for promotions and advertisements will increase the popularity of the movie. This in turn will led to generating higher revenue for the movie.
+- Higher budgets and popularity were **positively correlated** to Higher Revenue. This is quite explainable, since a higher budget for promotions and advertisements will increase the popularity of a movie. This in turn will lead to generating higher revenue for the movie.
 - Also the duration of the movies, either short or very long **did not affect** the average user rating of the movies.
 - Over the years, there was an **increase in trend** for the general popularity of movies.
 
